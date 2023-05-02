@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/gZWduPm.gif)]
+![MasterHead](https://i.imgur.com/gZWduPm.gif)
 <h1 align="center">Hi 👋, I'm Siddharth Bose</h1>
 <h3 align="center">A passionate developer from India. Having experience and knowledge on, but not limited to, React JS.</h3>
 

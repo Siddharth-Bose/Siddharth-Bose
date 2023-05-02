@@ -1,4 +1,4 @@
-<div width="100%">[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)]</div>
+[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)]
 <h1 align="center">Hi 👋, I'm Siddharth Bose</h1>
 <h3 align="center">A passionate developer from India. Having experience and knowledge on, but not limited to, React JS.</h3>
 

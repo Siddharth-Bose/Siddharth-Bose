@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)]
 <h1 align="center">Hi 👋, I'm Siddharth Bose</h1>
 <h3 align="center">A passionate developer from India. Having experience and knowledge on, but not limited to, React JS.</h3>
 
